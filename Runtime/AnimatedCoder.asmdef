@@ -1,5 +1,5 @@
 {
-    "name": "CodedAnimatorController",
+    "name": "AnimatorCoder",
     "rootNamespace": "SHG.AnimatorCoder",
     "references": [],
     "includePlatforms": [],
